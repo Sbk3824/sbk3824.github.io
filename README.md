@@ -1,6 +1,6 @@
 ## Portfolio Site
 
-Link : http://shantagouda.me
+Profile Link : http://shantagouda.com
 
 LinkedIn : https://www.linkedin.com/in/shantagouda/
 
